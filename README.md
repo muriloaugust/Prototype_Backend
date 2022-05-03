@@ -40,5 +40,5 @@ Kein Deutsch, es tut mir nicht leid...
 
 ### Original Developers:
 
-augusto Chow
+Alvin Chow
 Augusto Da Silva
