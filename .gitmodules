@@ -1,0 +1,6 @@
+[submodule "augusto-grpc-py"]
+	path = augusto-grpc-py
+	url = https://github.com/Augustos86/Augustos86-grpc-py.git
+[submodule "augusto-python-lib"]
+	path = augusto-python-lib
+	url = https://github.com/Augustos86/Augustos86-python-lib.git

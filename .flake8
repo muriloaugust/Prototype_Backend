@@ -1,0 +1,11 @@
+[flake8]
+exclude =
+  venv
+  .venv
+  alembic
+  augusto_prototype_backend_protobuf
+  augusto_prototype_backend/api/grpc/augusto_prototype_backend_protobuf_async
+  augusto-grpc-py
+  augusto-python-lib
+
+max-line-length = 120

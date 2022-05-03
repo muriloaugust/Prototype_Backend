@@ -1,0 +1,8 @@
+[run]
+omit =
+    augusto_prototype_backend/commands/*
+    augusto_prototype_backend/test/*
+    augusto_prototype_backend/api/grpc/protobuf*
+    augusto_prototype_backend/api/grpc/setup*.py
+    */test_*.py
+    *version*.py
